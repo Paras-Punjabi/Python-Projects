@@ -71,7 +71,7 @@ def convert_to_decimal_from_octal(n):
     return sum
 
 
-# Testing
+# For Testing
 if __name__ == '__main__':
     print(convert_to_binary_from_decimal(90))
     a = convert_to_binary_from_string("Paras Punjabi Program")
