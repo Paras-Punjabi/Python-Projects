@@ -8,3 +8,4 @@ Snake and Water -> Snake Win's
 Snake and Gun -> Gun Win's
 Gun and Water -> Water Win's
 - Tic Tac Toe Game : Played between Computer and User  (Game of O's and X's).
+- Converter : We can convert binary to decimal, decimal to binary, binary to string, string to binary, decimal to octal and octal to decimal
